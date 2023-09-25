@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitrout17?tab=repositories](https://github.com/Amitrout17?tab=repositories)
 
-- 📝 I regularly write articles on [Optimizing React Application](Optimizing React Application)
+- 📝 I regularly write articles on Optimizing React Application
 
 - 💬 Ask me about **React, Node, Express,**
 
